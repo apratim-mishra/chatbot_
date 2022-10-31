@@ -17,4 +17,4 @@ While this has been replaced with GODEL (https://www.microsoft.com/en-us/researc
 
 In terms of applications, it is relatively easy to be leveraged for specific dialogue generation tasks. Here, we have used the transcripts from HOUSE MD for finetuning, but we can use transcripts from any movie or any other television to tune on a characters' dialogue.
 
-# We see clear improvements in dialogue generation in the second case, when the trained is used
+We see clear improvements in dialogue generation in the second case, when the trained is used
